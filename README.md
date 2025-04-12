@@ -17,7 +17,8 @@ A simple clone of the Amazon homepage built using **HTML** and **CSS**. This pro
 
 ## 📸 Screenshots
 
-*(Add screenshots here if available)*
+![Screenshot 2025-04-13 001231](https://github.com/user-attachments/assets/7fcb5b25-558b-4e35-8f4c-57554fef00e7)
+![Screenshot 2025-04-13 001338](https://github.com/user-attachments/assets/908663f8-27e4-4377-8d25-74277fc6a353)
 
 ## 📁 Folder Structure
-
+amazon-clone/ ├── index.html ├── style.css ├── images/ │ └── (all images used in the project) └──
