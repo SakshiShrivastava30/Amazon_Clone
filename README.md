@@ -7,7 +7,7 @@ A simple clone of the Amazon homepage built using **HTML** and **CSS**. This pro
 - Responsive design for desktop and mobile
 - Navigation bar with logo, search box, and cart icon
 - Hero section with promotional banners
-- Product listings with image, title, and pricing
+- Product listings with image and title
 - Footer section similar to Amazon
 
 ## 🛠️ Built With
